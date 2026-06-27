@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+
+# Java
+target/
+*.class
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Uploads
+uploads/*
